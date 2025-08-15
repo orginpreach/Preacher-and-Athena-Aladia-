@@ -1,4 +1,5 @@
 -- This script was generated using the MoonVeil Obfuscator v1.4.0 [https://moonveil.cc]
+-- You cant skid this nga
 
 local qz,Xy,Cw,eB,Ro,B=bit32.bxor,type,getmetatable,pairs;
 local Yy,Cb,cp,_B,AD,Ke,_p,ge,_u,uc,ho,s,zd,Nh,Zs,Ay,yd,mp,Or,ec
